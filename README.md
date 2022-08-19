@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Per
-- 🌱 I’m currently learning Python and Linux
+- 🌱 I’m currently learning Python\Go\Linux\Docker and more.
 - 💞️ I’m new to Github and want to learn how to contribute to opensource projects.
 
 Have a good day!
